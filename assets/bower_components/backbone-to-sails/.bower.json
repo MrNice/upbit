@@ -1,0 +1,35 @@
+{
+  "name": "backbone-to-sails",
+  "version": "0.10.0",
+  "homepage": "https://github.com/mikermcneil/backbone-to-sails",
+  "authors": [
+    "Mike McNeil <@mikermcneil>"
+  ],
+  "description": "Backbone SDK for communicating with Sails.js over Socket.io.",
+  "main": "sails.io.backbone.js",
+  "keywords": [
+    "backbone",
+    "sails",
+    "socket.io",
+    "sails.js",
+    "sailsjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.10.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.10.0",
+    "commit": "359040077202d857fcae909936617ea0b02c229e"
+  },
+  "_source": "git://github.com/mikermcneil/backbone-to-sails.git",
+  "_target": "~0.10.0",
+  "_originalSource": "backbone-to-sails",
+  "_direct": true
+}

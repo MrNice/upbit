@@ -20,7 +20,7 @@ module.exports.bootstrap = function(cb) {
         if (receivers.length === 0) {
             return cb();
         }
-
+		console.log(receivers);
         cb();
 
     });
